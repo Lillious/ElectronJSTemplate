@@ -8,6 +8,11 @@ npm i
 npm start
 ```
 
+# Package
+```
+npx electron-packager .
+```
+
 # Teasers
 ![Alt text](https://github.com/LilliousDev/ElectronJSTemplate/blob/main/src/www/img/teaser.png?raw=true)
 
